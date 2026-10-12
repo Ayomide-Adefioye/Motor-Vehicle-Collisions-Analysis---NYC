@@ -207,19 +207,9 @@ The dashboard includes two slicers:
 
 These controls allow users to explore the displayed metrics and comparisons under different selections.
 
-## Dashboard Preview
+## Power BI Dashboard Preview
 
-
-<h2 align="center">Power BI Dashboard Preview</h2>
-
-<p align="center">
-  <img
-    src="Motor Vehicle Collisions Analysis - NYC\Images\dashboard_overview.png.png"
-    alt="Power BI Dashboard"
-    width="900"
-  />
-</p>
-
+![Power BI Dashboard](Motor Vehicle Collisions Analysis - NYC/dashboard_overview.png)
 
 ## Potential Business Value
 
