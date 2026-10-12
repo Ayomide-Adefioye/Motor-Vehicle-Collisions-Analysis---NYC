@@ -209,7 +209,14 @@ These controls allow users to explore the displayed metrics and comparisons unde
 
 ## Power BI Dashboard Preview
 
-![Power BI Dashboard](Motor Vehicle Collisions Analysis - NYC/Images/dashboard_overview.png.png)
+<p align="center">
+  <img src="./Motor Vehicle Collisions Analysis - NYC/Images/dashboard_overview.png.png
+" width="800" alt="Power BI Dashboard">
+</p>
+
+
+
+Motor Vehicle Collisions Analysis - NYC/Images/dashboard_overview.png.png
 
 ## Potential Business Value
 
