@@ -1,4 +1,4 @@
-# NYC Motor Vehicle Collision Analysis 🚗📊
+# NYC Motor Vehicle Collision Analysis 
 
 ## Project Overview
 
@@ -141,8 +141,6 @@ The dashboard includes cards displaying:
 
 * Least-factor metric.
 
-The definitions of the last two metrics should be documented explicitly in the final version of the project because their labels alone do not establish exactly how they were calculated.
-
 ### 2. Total Crashes by Borough
 
 A horizontal bar chart compares collision counts across:
@@ -211,7 +209,17 @@ These controls allow users to explore the displayed metrics and comparisons unde
 
 ## Dashboard Preview
 
-*The screenshot above should be saved in the repository's* `_Images_` *folder using the filename* `_dashboard_overview.png_`*.*
+
+<h2 align="center">Power BI Dashboard Preview</h2>
+
+<p align="center">
+  <img
+    src="Motor Vehicle Collisions Analysis/Images/dashboard_overview.png.png"
+    alt="Power BI Dashboard"
+    width="900"
+  />
+</p>
+
 
 ## Potential Business Value
 
@@ -267,9 +275,8 @@ NYC-Motor-Collision-Crashes-Analysis/
 ├── README.md
 │
 ├── SQL/
-│   ├── 01_data_exploration.sql
-│   ├── 02_data_cleaning.sql
-│   └── 03_data_analysis.sql
+│   ├── data_cleaning.sql
+│   └── data_analysis.sql
 │
 ├── PowerBI/
 │   └── NYC_Vehicle_Collision_Dashboard.pbix
@@ -280,8 +287,6 @@ NYC-Motor-Collision-Crashes-Analysis/
 └── Data/
     └── README.md
 ```
-
-*This is the recommended structure. Use the actual filenames you have, and only include SQL files or folders that you create. The* `_Data/README.md_` *file can document the dataset source and structure when the raw dataset cannot be distributed.*
 
 ## Limitations and Considerations
 
