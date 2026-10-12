@@ -214,7 +214,7 @@ These controls allow users to explore the displayed metrics and comparisons unde
 
 <p align="center">
   <img
-    src="Motor Vehicle Collisions Analysis/Images/dashboard_overview.png.png"
+    src="Motor Vehicle Collisions Analysis - NYC/Images/dashboard_overview.png.png"
     alt="Power BI Dashboard"
     width="900"
   />
