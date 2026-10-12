@@ -214,10 +214,6 @@ These controls allow users to explore the displayed metrics and comparisons unde
 " width="800" alt="Power BI Dashboard">
 </p>
 
-
-
-Motor Vehicle Collisions Analysis - NYC/Images/dashboard_overview.png.png
-
 ## Potential Business Value
 
 The analysis demonstrates how large-scale collision records can be transformed into an interactive report that supports further investigation.
