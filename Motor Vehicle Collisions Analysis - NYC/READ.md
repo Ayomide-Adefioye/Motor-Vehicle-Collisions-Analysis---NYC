@@ -209,7 +209,8 @@ These controls allow users to explore the displayed metrics and comparisons unde
 
 ## Power BI Dashboard Preview
 
-![My Power BI Dashboard]([PASTE_YOUR_IMAGE_URL_HERE](https://github.com/Ayomide-Adefioye/Motor-Vehicle-Collisions-Analysis---NYC/blob/main/Motor%20Vehicle%20Collisions%20Analysis%20-%20NYC/Images/dashboard_overview.png.png?raw=true))
+<img width="768" height="376" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/660cac1f-8d75-46b6-a5f5-f014285d2dca" />
+
 
 ## Potential Business Value
 
